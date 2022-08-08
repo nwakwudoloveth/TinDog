@@ -1,8 +1,8 @@
 #TinDog Landing page
 
-##language
-*HTML
+## language
+* HTML
 * CSS
 
 
-*Bootsrap Library
+* Bootsrap Library
